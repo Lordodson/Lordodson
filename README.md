@@ -1,7 +1,8 @@
-Hello, I'm Cody, I'm a computer science student at Full Sail University and a TD Probe Associate Technician at Micron Tech. Inc.
-This is a repository for my old/new projects and labs.
+Hello, I'm Cody, I'm a computer science student at Full Sail University,
+and a TD Probe Associate Technician at Micron Tech. Inc.
+
 I work with a multitude of languages. I mostly upload in C#/C++/Python
-I keep my projects private, please ask if you'd like to view projects.
+I keep my projects and labs private, please ask if you'd like to view projects.
 Thanks for visiting!
 
 REPOSITORIES:
